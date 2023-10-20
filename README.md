@@ -26,7 +26,7 @@ CNN 이미지 인식 기반 개인화 맞춤 레시피 추천 서비스
 
 
 # 영상 
-- Web Cam 인식 시스템 구현 영상 링크 : 
+- Web Cam 인식 시스템 구현 영상 링크 : https://youtu.be/hTZ22nVsckw
 
 # WebPage
 ![image](https://github.com/HyunDongHo/NowMeal/assets/46379443/e2ef0f92-c3c5-4816-8529-057593706b82)
