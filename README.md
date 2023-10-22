@@ -1,4 +1,4 @@
-![image](https://github.com/HyunDongHo/NowMeal/assets/46379443/4a9e4cee-f795-4ef5-9f41-959ffca8d9de)# NowMeal
+# NowMeal
 
 # 프로젝트 소개 
 - CNN 이미지 인식 기반 개인화 맞춤 레시피 추천 서비스
