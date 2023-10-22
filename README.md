@@ -17,6 +17,8 @@
 # 참여 부분
 1. 데이터 수집 
 - 구글 이미지 크롤링 이후 데이터 전처리 
+![image](https://github.com/HyunDongHo/NowMeal/assets/46379443/d87db8b4-555c-4ec3-b3f7-9ddef0c7f5fd)
+
 
 2. 모델 개발 및 학습
 - InceptionV3, VGG16, ResNet50 과 같은 이미 학습된 딥러닝 모델을 준비하여 Fine Tuning 전략을 사용해 모델 학습 후 학습된 모델을 파일로 저장 
