@@ -1,4 +1,6 @@
 # 이미지 분석 기반의 인공지능 플랫폼 개발자 양성과정 과정 수료 (주관 : 한국생산성본부)
+![image](https://github.com/HyunDongHo/NowMeal/assets/46379443/0673abc6-d22a-4068-a20e-0d8c6913a437)
+
 - 기간 : 2020.06 ~ 2020.12
 
 # NowMeal
