@@ -21,6 +21,8 @@
 2. 모델 개발 및 학습
 - InceptionV3, VGG16, ResNet50 과 같은 이미 학습된 딥러닝 모델을 준비하여 Fine Tuning 전략을 사용해 모델 학습 후 학습된 모델을 파일로 저장 
 - 학습 시간 대비 validation accuracy가 가장 높은 모델 선정 (val_acc : 0.976)
+  ![image](https://github.com/HyunDongHo/NowMeal/assets/46379443/0fb29444-37c8-4f35-bd19-9f54997ab84f)
+
 
 3. 실시간 Webcam 인식 시스템 구현
 - 선정된 모델을 바탕으로 python 에서 openCV를 사용해 실시간으로 UI 구현
