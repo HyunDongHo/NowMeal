@@ -1,4 +1,4 @@
-# NowMeal
+![image](https://github.com/HyunDongHo/NowMeal/assets/46379443/4a9e4cee-f795-4ef5-9f41-959ffca8d9de)# NowMeal
 
 # 프로젝트 소개 
 - CNN 이미지 인식 기반 개인화 맞춤 레시피 추천 서비스
@@ -7,9 +7,9 @@
 # 팀 프로젝트 개요 
 - 제작기간 : 3주
 - 팀원 : 3명
-- 현동호 : 크롤링, CNN 모델개발, WebCam 인식, 웹 퍼블리싱
-- 이현경 : 기획, DB구축, 웹 퍼블리싱
-- 이재성 : 추천 모델 개발, 모델 평가, 웹 퍼블리싱
+  - 현동호 : 크롤링, CNN 모델개발, WebCam 인식, 웹 퍼블리싱
+  - 이현경 : 기획, DB구축, 웹 퍼블리싱
+  - 이재성 : 추천 모델 개발, 모델 평가, 웹 퍼블리싱
   
 # 적용기술 
 - DB : Oracle
@@ -20,13 +20,12 @@
 # 참여 부분
 1. 데이터 수집 
 - 구글 이미지 크롤링 이후 데이터 전처리 
-![image](https://github.com/HyunDongHo/NowMeal/assets/46379443/d87db8b4-555c-4ec3-b3f7-9ddef0c7f5fd)
-
+  ![image](https://github.com/HyunDongHo/NowMeal/assets/46379443/b1e4833b-2db2-44bb-a387-bf7a5532d2da)
 
 2. 모델 개발 및 학습
 - InceptionV3, VGG16, ResNet50 과 같은 이미 학습된 딥러닝 모델을 준비하여 Fine Tuning 전략을 사용해 모델 학습 후 학습된 모델을 파일로 저장 
 - 학습 시간 대비 validation accuracy가 가장 높은 모델 선정 (val_acc : 0.976)
-  ![image](https://github.com/HyunDongHo/NowMeal/assets/46379443/0fb29444-37c8-4f35-bd19-9f54997ab84f)
+  ![image](https://github.com/HyunDongHo/NowMeal/assets/46379443/406a7db3-89ff-41f7-90c8-6e1c53d264c3)
 
 
 3. 실시간 Webcam 인식 시스템 구현
