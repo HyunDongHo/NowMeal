@@ -28,6 +28,7 @@
 
 3. 실시간 Webcam 인식 시스템 구현
 - 선정된 모델을 바탕으로 python 에서 openCV를 사용해 실시간으로 UI 구현
+![image](https://github.com/HyunDongHo/NowMeal/assets/46379443/60cfa7db-9f64-4681-89a9-fd088730b8ce)
 
 
 # 영상 
